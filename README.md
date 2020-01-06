@@ -3,10 +3,15 @@
 
 调用示例：
 网站名字格式：网易->netease  QQ音乐->qqmusic   酷狗音乐->kugou  酷我音乐->kuwo  百度音乐->baidu
+
 搜索：btn_play(“搜索关键字” “网站名字”);
+
 返回正在播放音乐的链接：getSrc()
+
 返回正在播放音乐的名字：getTitle()
+
 返回正在播放音乐的封面图片：getPic()
+
 返回正在播放音乐的作者名字：getAuthor()
 
 1、需要放置jquery.js APlayer.min.js APlayer.min.css musci.js
