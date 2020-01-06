@@ -10,7 +10,8 @@
 返回正在播放音乐的作者名字：getAuthor()
 
 1、需要放置jquery.js APlayer.min.js APlayer.min.css musci.js
-2、放置
+2、将下面这个div放到html页面
+
     <div id="aplayer"></div>
 
 还不会，请看Demo示例
