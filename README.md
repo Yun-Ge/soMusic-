@@ -10,14 +10,16 @@
 返回正在播放音乐的作者名字：getAuthor()
 
 1、需要放置jquery.js APlayer.min.js APlayer.min.css musci.js
-2、放置<div id="aplayer"></div>
+2、放置
+    <div id="aplayer"></div>
 
 还不会，请看Demo示例
+
     <script src="/jquery-1.10.2.min.js" type="text/javascript"></script>
     <script src="/APlayer.min.js" type="text/javascript"></script>
     <script src="/music.js" type="text/javascript"></script>
     <link href="/APlayer.min.css"  rel="stylesheet" />
-    
+
      <div>
       <input type="text" id="name" required>
       <button type="button" id="soMusic">搜索</button><br/>
